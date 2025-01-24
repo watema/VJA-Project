@@ -62,3 +62,7 @@ header, footer {
 .btn-primary:hover {
   background-color: #163a8c;
 }
+.container {
+  margin: 40px;
+  padding: 30px;
+}
